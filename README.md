@@ -45,3 +45,9 @@ After you deploy using the CDK tools, you will see a URL output that looks simil
 
 Take the URL and add /demo-site/ and then paste into your browser of choice.  At this point, you should see the Express application served from the Lambda API.
 
+# Corresponding article
+
+A more in-depth explanation can be found here in Medium:
+
+https://drewword.medium.com/api-gateway-express-js-greedy-paths-to-a-full-stack-with-vue-js-c11adfc1ecd3
+
